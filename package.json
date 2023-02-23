@@ -1,0 +1,14 @@
+{
+  "name": "redux-start",
+  "version": "1.0.0",
+  "description": "This is Redux Learing Project",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Fayezullah",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3"
+  }
+}
